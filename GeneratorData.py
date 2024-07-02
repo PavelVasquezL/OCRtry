@@ -66,7 +66,7 @@ def save_generated(image_dir, array_font, cantidad=10000):
         image.save(image_path)
 
 # Parámetros
-total_images = 80000
+total_images = 5
 output_directory = "DataGenerated/"
 font_path = "Complementos/TNR Extra Bold.ttf" # Reemplaza esto con la ruta a tu archivo de fuente
 font_array = ["Complementos/TNR Extra Bold.ttf", "Complementos/Sabon Bold.ttf", "Complementos/Cambria Bold.ttf"]
